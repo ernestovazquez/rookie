@@ -1,1 +1,1 @@
-# [https://ernestovazquez.github.io]
+# https://ernestovazquez.github.io
