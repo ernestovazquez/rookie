@@ -1,3 +1,9 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://ernestovazquez.github.io/"
+title = "De Rookie a Leyenda"
+author = "Ernesto Vázquez"
+paginate = 3
+theme = "arabica"
+
+[params]
+description = "Ernesto Vázquez García"
+
