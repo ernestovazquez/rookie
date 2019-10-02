@@ -4,7 +4,7 @@ date: 2019-09-26T18:15:02+02:00
 draft: false
 ---
 
-![marquezwin](marquezwin.jpg)
+![marquezwin](/img/marquezwin.jpg)
 
 #### Llegó la primera oportunidad matemática para que Marc Márquez consiga su octavo título mundial, sexto de MotoGP. Dentro de dos semanas en Tailandia, podría lograrlo con cuatro citas aún por delante en Japón, Australia, Malasia y Valencia. Estas son las cuentas.
 
@@ -14,7 +14,7 @@ La emoción llegó por detrás, donde su perseguidor en el campeonato remontó d
 
 #### [Clasificación Provisional](https://www.marca.com/motor/motogp/clasificacion-motogp.html) MotoGP
 
-![Clasificacion](clasificacion.jpg)
+![Clasificacion](/img/clasificacion.jpg)
 
 300 puntos acumulados con 125 en juego. **Sin duda Marc Márquez está haciendo su mejor temporada en MotoGP desde que debutase en 2013.** Tiene a «tiro» **el récord de mayor puntuación de la historia,** logrado por Jorge Lorenzo en 2010 al finalizar con 383 puntos. Dovizioso con 202 puntos tiene bastante consolidado el subcampeonato con 46 de ventaja sobre Álex Rins.
 
@@ -24,7 +24,7 @@ La emoción llegó por detrás, donde su perseguidor en el campeonato remontó d
 
 #### Sería la primera vez en Tailandia
 
-![2018win](2018win.jpg)
+![2018win](/img/2018win.jpg)
 
 **Marc Márquez ha logrado 7 títulos hasta la fecha. 3 en Japón (2014, 2016 y 2018), 1 en Australia (2012) y 3 en Valencia (2010, 2013 y 2017).** Estos últimos en el circuito Ricardo Tormo, claramente los más emocionantes al jugarse el campeonato a una carta. Siempre que ha llegado en esta circunstancia de todo o nada, Marc Márquez ha ganado. A Terol en 2010, a Lorenzo en 2013 y por último a Dovizioso en 2017 con aquella mítica salvada en la curva 1.
 
@@ -34,7 +34,7 @@ La emoción llegó por detrás, donde su perseguidor en el campeonato remontó d
 
 #### Las cuentas para el título de Márquez
 
-![marquezpodio](marquezpodio.jpg)
+![marquezpodio](/img/marquezpodio.jpg)
 
 **Marc Márquez llega a Tailandia con 98 puntos de diferencia sobre Andrea Dovizioso, el único que podría aún impedir su 8º título Mundial.** En juego aún 125 puntos, aunque lo importante es que cuando termine la próxima cita sólo quedarán 100 y **si Marc amplía sus 98 en 2 más de diferencia, será campeón de MotoGP por sexta vez, cuarta consecutiva.**
 

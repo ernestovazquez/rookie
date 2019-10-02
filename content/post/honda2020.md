@@ -4,7 +4,7 @@ date: 2019-09-26T20:55:21+02:00
 draft: false
 ---
 
-![lorenzo](lorenzo.jpg)
+![lorenzo](/img/lorenzo.jpg)
 
 #### La primera temporada de Jorge Lorenzo en Honda esta lejos de las expectativas. El piloto mallorquín no ha conseguido adaptarse a la moto japonesa, eso junto a la lesión que sufrió le han hecho rendir cada vez menos.
 
@@ -22,7 +22,7 @@ Otro candidato que sonó más ligeramente y que ya está descartado es **Álex M
 
 La lista de candidatos útiles para ocupar la Honda no es muy extensa. Pero si hay un nombre que parece que coge más fuerza es el de **Stefan Bradl.** HRC considera las cualidades del piloto probador de la marca, que al parecer se entiende a la perfección con  **Marc Márquez. Bradl se ha convertido en un factor valioso en el equipo de pruebas** de HRC. **«Las personas a cargo de HRC me dan mucho reconocimiento».**
 
-![Bradl](bradl.jpg)
+![Bradl](/img/bradl.jpg)
 
 **Queda claro que HRC necesita un piloto que pueda hacer frente a Marc Márquez** de cara a la temporada que viene. **Que sea capaz de entrar entre los 10 primero de forma constante y que se pueda adaptar bien a la moto. Bradl cumple con todos los criterios.** Pero nada de esto es posible por ahora. Honda deberá  esperar a que el piloto mallorquín rompa el contrato a final de temporada. Si el acontecimiento se diese de forma inversa, entonces **HRC le deberían pagar de 3 a 4 millones de euros al español.**
 

@@ -41,5 +41,5 @@ Mención al margen merece el Gran Premio de Estados Unidos cuando se disputaba e
 
 Llama la atención también que menos de un año después de que en el Circuit Ricardo Tormo se batiese el récord de caídas en toda la historia del campeonato durante el Gran Premio de la Comunitat Valenciana, otra pista española haya establecido una cifra tan baja.  
 
-![caidamarquez](caidamarquez.jpg)
-![caidamarquez2](caidamarquez2.jpg)
+![caidamarquez](/img/caidamarquez.jpg)
+![caidamarquez2](/img/caidamarquez2.jpg)
