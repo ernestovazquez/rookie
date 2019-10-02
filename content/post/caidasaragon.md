@@ -4,7 +4,7 @@ date: 2019-09-26T19:03:24+02:00
 draft: false
 ---
 
-![caidamarquez3](caidamarquez3.jpg)
+![caidamarquez3](/static/img/caidamarquez3.jpg)
 
 #### El Gran Premio de Aragón rozó el récord de menos caídas en un fin de semana.
 
