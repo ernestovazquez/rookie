@@ -1,6 +1,6 @@
 ---
 title: "Márquez será campeón de MotoGP en Tailandia si…"
-date: 2019-09-26T18:15:02+02:00
+date: 2019-09-29T18:15:02+02:00
 draft: false
 ---
 
