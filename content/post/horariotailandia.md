@@ -1,5 +1,5 @@
 ---
-title: "Horariotailandia"
+title: "Horarios MotoGP Tailandia 2019: dónde y cuándo ver las carreras en directo"
 date: 2019-10-03T10:47:42+02:00
 draft: false
 ---
