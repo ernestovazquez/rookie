@@ -27,7 +27,7 @@ Con el cero de **Aron Canet** en Misano, el Mundial se inclinaba más para el la
 
 #### Cómo y cuándo ver el Gran Premio de Tailandia
 
-|**Día**|**Hora**|**Categoría / Sesión**|
+|Día|Hora|Categoría / Sesión|
 -------------|------------|--------
 **Viernes 4-10** | 04:00 – 04:40 | Moto3 – FP1
 | | 04:55 – 05:40 | MotoGP – FP1
