@@ -1,7 +1,7 @@
 ---
 title: "Valentino Rossi mueve ficha, sustituye a Galbusera por David Muñoz de cara al 2020"
 date: 2019-10-03T12:11:59+02:00
-draft: rossi
+draft: true
 ---
 
 #### Valentino Rossi empieza a mover fichas de cara a la temporada que viene. El italiano sustituirá a Silvano Galbusera por David Muñoz, con la intención de recuperar las sensaciones perdidas.
