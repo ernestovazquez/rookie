@@ -41,15 +41,15 @@ Con el cero de **Aron Canet** en Misano, el Mundial se inclinaba más para el la
 | | 07:35 – 07:50 | Moto3 – Q1
 | | 08:00 – 08:15 | Moto3 – Q2
 | | 08:30 – 09:00 | MotoGP – FP4
-| | 09:10 – 09:25 | MotoGP – Q1
-| | 09:35 – 09:50 | MotoGP – Q2
+| | **09:10 – 09:25** | **MotoGP – Q1**
+| | **09:35 – 09:50** | **MotoGP – Q2**
 | | 10:05 – 10:20 | Moto2 – Q1
 | | 10:30 – 10:45 | Moto2 – Q2
 **Domingo 6-10** | 03:40 – 4:00 | Moto3 – WUP
 | | 04:10 – 04:30 | Moto2 – WUP
 | | 04:40 – 05:00 | MotoGP – WUP
-| | 6:00 | Moto3 – Carrera
-| | 7:20 | Moto2 – Carrera
-| | 9:00 | MotoGP – Carrera
+| | **6:00** | **Moto3 – Carrera**
+| | **7:20** | **Moto2 – Carrera**
+| | **9:00** | **MotoGP – Carrera**
 
 **DAZN** ofrecerá todo el contenido del GG.PP en directo, comenzando la emisión con la FP1 de Moto3 el viernes siguiendo por todas las sesiones de entrenamiento, clasificaciones en la jornada del sábado y todos los Warm Up y carreras del domingo. Esta es la **única forma de ver las carreras de MotoGP** en España actualmente.
