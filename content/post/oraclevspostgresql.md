@@ -4,8 +4,8 @@ date: 2019-11-09T18:38:43+01:00
 draft: false
 ---
 
-Vamos a ver las principales diferencias entre estos dos gestores. 
-Diferencias en cursores:
+#### Vamos a ver las principales diferencias entre estos dos gestores. 
+###### Diferencias en cursores:
 
 Recorreremos los cursores de formas diferentes en los dos gestores.
 
@@ -29,7 +29,7 @@ FOR c_cursor IN SELECT ... FROM table LOOP;
 END LOOP;
 ```
 
-En cuanto a triggers en PL/PGSQL primero creamos la función y después llamamos a dicha función
+###### En cuanto a triggers en PL/PGSQL primero creamos la función y después llamamos a dicha función
 
 ```
 CREATE OR REPLACE FUNCTION nombrefuncion RETURNS TRIGGER AS $nombretrigger$
@@ -61,6 +61,8 @@ END;
 /
 ```
 
+###### También tendremos que cambiar la forma de imprimir.
+
 * Mientras que en Oracle es:
 
 ```
@@ -73,7 +75,7 @@ dbms_output.put_line(‘...’);
 RAISE NOTICE ‘...’;
 ```
 
-En los errores pasa lo mismo
+###### En los errores pasa lo mismo
 
 * Oracle:
 
@@ -87,7 +89,7 @@ raise_application_error(-20002,'...');
 RAISE EXCEPTION '...';
 ```
 
-Vamos a ver cómo se crean las estructuras de las funciones y la principal diferencia con respecto a Oracle
+###### Vamos a ver cómo se crean las estructuras de las funciones y la principal diferencia con respecto a Oracle
 
 * En Oracle terminaremos la función solamente con los siguiente:
 
@@ -102,6 +104,8 @@ end nombrefuncion;
 end;
 $nombrefuncion$ LANGUAGE plpgsql;
 ```
+
+###### Tablas mutantes
 
 Por último, en cuanto a las tablas mutantes, en oracle se crea con paquetes y en postgres son con tablas temporales.
 
