@@ -74,6 +74,7 @@ RAISE NOTICE ‘...’;
 ```
 
 En los errores pasa lo mismo
+
 * Oracle:
 
 ```
@@ -85,3 +86,22 @@ raise_application_error(-20002,'...');
 ```
 RAISE EXCEPTION '...';
 ```
+
+Vamos a ver cómo se crean las estructuras de las funciones y la principal diferencia con respecto a Oracle
+
+* En Oracle terminaremos la función solamente con los siguiente:
+
+```
+end nombrefuncion;
+/
+```
+
+* Mientras que en PostgreSQL:
+
+```
+end;
+$nombrefuncion$ LANGUAGE plpgsql;
+```
+
+Por último, en cuanto a las tablas mutantes, en oracle se crea con paquetes y en postgres son con tablas temporales.
+
