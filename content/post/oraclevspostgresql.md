@@ -48,7 +48,7 @@ FOR EACH(FILA O SENTENCIA)
 EXECUTE FUNCTION nombrefuncion;
 ```
 
-PL/SQL:
+* PL/SQL:
 
 
 ```
@@ -61,26 +61,26 @@ END;
 /
 ```
 
-Mientras que en Oracle es:
+* Mientras que en Oracle es:
 
 ```
 dbms_output.put_line(‘...’);
 ```
 
-En PostgreSQL entremos que poner lo siguiente:
+* En PostgreSQL entremos que poner lo siguiente:
 
 ```
 RAISE NOTICE ‘...’;
 ```
 
 En los errores pasa lo mismo
-Oracle:
+* Oracle:
 
 ```
 raise_application_error(-20002,'...');
 ```
 
-PostgreSQL:
+* PostgreSQL:
 
 ```
 RAISE EXCEPTION '...';
