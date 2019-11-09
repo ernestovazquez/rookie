@@ -105,3 +105,22 @@ $nombrefuncion$ LANGUAGE plpgsql;
 
 Por último, en cuanto a las tablas mutantes, en oracle se crea con paquetes y en postgres son con tablas temporales.
 
+Crear una tabla temporal
+
+```
+CREATE TEMP TABLE tbl AS
+SELECT * FROM tbl WHERE ... ;
+```
+
+No está seguro de si la tabla ya existe
+
+```
+CREATE TABLE IF not EXISTS ...
+```
+
+A continuación:
+
+```
+INSERT INTO tbl (col1, col2, ...)
+SELECT col1, col2, ...
+```
