@@ -1,6 +1,6 @@
 ---
 title: "T6. DNS."
-date: 2019-19-11T13:15:31+01:00
+date: 2020-19-11T13:15:31+01:00
 draft: false
 ---
 Asignamos **zonas** :
