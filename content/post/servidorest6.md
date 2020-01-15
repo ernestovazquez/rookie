@@ -1,11 +1,8 @@
 ---
-title: "Servidorest6"
+title: "T6. DNS."
 date: 2020-01-15T13:15:31+01:00
 draft: false
 ---
-
-[Servicios] - Tarea 6 - Servidores Cloud. DNS.
-
 Asignamos **zonas** :
 
 ```
