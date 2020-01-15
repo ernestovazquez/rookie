@@ -286,5 +286,5 @@ gpgcheck=1
 [centos@salmorejo ~]$ sudo yum install MariaDB-client
 ```
 
-![mysqlremoto][mysqlremoto.png]
+![mysqlremoto][static/img/mysqlremoto.png]
 
