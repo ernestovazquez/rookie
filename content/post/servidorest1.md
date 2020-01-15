@@ -4,7 +4,7 @@ date: 2020-01-15T10:36:33+01:00
 draft: false
 ---
 
-##### Crear tres máquinas en el cloud con los siguientes nombres y sistemas operativos:
+#### Crear tres máquinas en el cloud con los siguientes nombres y sistemas operativos:
 
 Croqueta (Debian 10)
 Tortilla (Ubunut 18.04)
@@ -13,7 +13,7 @@ Salmorejo (CentOs 7)
 Croqueta y Tortilla usan un volumen como unidad de disco principal.
 Se creará un usuario "profesor" con el que podrán acceder los profesores usando claves RSA.
 
-### **Croqueta: 172.22.200.111**
+#### **Croqueta: 172.22.200.111**
 
 Vamos a cambiar el nombre de dominio.
 
@@ -65,7 +65,7 @@ debian@croqueta:~$ sudo nano /etc/hosts
 Por ultimo actualizamos la máquina
 
 
-### **Tortilla: 172.22.200.21**
+#### **Tortilla: 172.22.200.21**
 
 Vamos a cambiar el nombre de dominio.
 
@@ -114,7 +114,7 @@ ubuntu@tortilla:~$ sudo nano /etc/hosts
 Por ultimo actualizamos la máquina
 
 
-### **Salmorejo: 172.22.200.109**
+#### **Salmorejo: 172.22.200.109**
 
 ```
 [centos@salmorejo ~]$ hostnamectl set-hostname salmorejo.gonzalonazareno.org
