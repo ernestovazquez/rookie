@@ -132,7 +132,7 @@ sudo yum install nginx
 
 Activamos el puerto HTTP en openstack y ya podremos entrar en nginx por la IP
 
-![nginxcentos][nginxcentos.png]
+![nginxcentos][static/img/nginxcentos.jpg]
 
 Actualizamos:
 
@@ -229,7 +229,7 @@ Vamos a crear el fichero **PHP**
 
 Accederemos mediante nuestro navegador Web
 
-![infophp][infophp.png]
+![infophp][static/img/infophp.jpg]
 
 
 **Servidor de base de datos**
