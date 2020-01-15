@@ -30,7 +30,7 @@ Probamos si **funciona** en **local** :
 (produccionmazzine) ernesto@honda:~/Documentos/mezzanineernesto$ python manage.py runserver
 ```
 
-!runserver.png!
+![runserver](/img/runserver.png)
 
 Subimos el directorio a nuestro **GitHub**
 
@@ -49,13 +49,13 @@ Configuración contenido estático.
 
 Personalizamos la página cambiándole el nombre 
 
-!nombremezza.png!
+![nombremezza](/img/nombremezza.png)
 
 Añadimos una foto.
 
-!fotomezza1.png!
+![fotomezza1](/img/fotomezza1.png)
 
-!cambiosmezza.png!
+![cambiosmezza](/img/cambiosmezza.png)
 
 Copia de seguridad de la base de datos:
 
