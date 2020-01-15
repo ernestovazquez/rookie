@@ -1,5 +1,5 @@
 ---
-title: "T1. Instalación de los servidores"
+title: "T1. Instalación de los servidores."
 date: 2020-01-15T10:36:33+01:00
 draft: false
 ---
