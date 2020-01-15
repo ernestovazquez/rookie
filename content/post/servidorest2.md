@@ -229,7 +229,7 @@ Vamos a crear el fichero **PHP**
 
 Accederemos mediante nuestro navegador Web
 
-![infophp][static/img/infophp.jpg]
+![infophp](/img/infophp.jpg)
 
 
 **Servidor de base de datos**
