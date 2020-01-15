@@ -1,6 +1,6 @@
 ---
 title: "T5. Actualización a CentOS 8."
-date: 2020-01-15T13:10:28+01:00
+date: 2019-11-11T13:10:28+01:00
 draft: false
 ---
 

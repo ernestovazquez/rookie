@@ -1,6 +1,6 @@
 ---
 title: "T3. Instalación aplicaciones web."
-date: 2020-01-15T12:20:59+01:00
+date: 2019-10-30T12:20:59+01:00
 draft: false
 ---
 

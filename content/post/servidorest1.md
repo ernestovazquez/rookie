@@ -1,6 +1,6 @@
 ---
 title: "T1. Instalación de los servidores."
-date: 2020-01-15T10:36:33+01:00
+date: 2019-10-13T10:36:33+01:00
 draft: false
 ---
 
