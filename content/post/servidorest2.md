@@ -14,7 +14,9 @@ debian@croqueta:~$ sudo nano /etc/dhcp/dhclient.conf
 
 Y quitamos los siguiente parametros:
 
-**domain-name, domain-name-servers, domain-search**
+```
+domain-name, domain-name-servers, domain-search
+```
 
 Editamos el archivo:
 
