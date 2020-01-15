@@ -132,7 +132,7 @@ sudo yum install nginx
 
 Activamos el puerto HTTP en openstack y ya podremos entrar en nginx por la IP
 
-![nginxcentos](static/img/nginxcentos.jpg)
+![nginxcentos](/img/nginxcentos.jpg)
 
 Actualizamos:
 
