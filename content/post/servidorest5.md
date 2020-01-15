@@ -1,10 +1,8 @@
 ---
-title: "Servidorest5"
+title: "T5. Actualización a CentOS 8."
 date: 2020-01-15T13:10:28+01:00
-draft: true
+draft: false
 ---
-
-Actualización a CentOS 8
 
 Instalamos los **repositorios** de **EPEL** :
 
