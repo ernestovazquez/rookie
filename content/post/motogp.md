@@ -28,6 +28,10 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 | 8 de marzo  |  Warm Up  |  13:40 a 14:00 |
 | 8 de marzo  |  Carrera (22 vueltas)  |  18:00 a 19:00 |
 
+![qatar](/img/qatar.png)
+
+![qatar2019](/img/qatar2019.png)
+
 ### GP de Tailandia | Chang International Circuit | Del 20 al 22 de marzo
 
 | Fecha | Modo | Horario |
