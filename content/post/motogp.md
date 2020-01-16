@@ -8,16 +8,18 @@ El calendario del mundial 2020 de MotoGP sumará una nueva cita con la incorpora
 
 Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 días que separan la carrera de Cheste (17 de noviembre), el último gran premio de 2019, y la de Qatar (8 de marzo), la primera de 2020, puesto que Dorna, la empresa organizadora del campeonato, tiene previsto organizar test de pretemporada. En total serán cuatro las fechas elegidas para que los equipos rueden sus monturas, siendo dos de ellas en España.
 
-| Fecha  | Tets    | Trazado |
-| ------------------------ |------------| -------------------------: |
+| Fecha | Tets | Trazado |
+| ------ |---------| ------: |
 | 19 de noviembre de 2019  | Valencia   | Circuito Ricardo Tormo     |
 | 26 de noviembre de 2019  | Jerez    | Circuito de Jerez-Ángel Nieto    |
 | 07 de febrero de 2020 | Sepang | Sepang International Circuit    |
 | 22 de febrero de 2020 | Qatar | Losail International Circuit    |
 
+
+
 ### GP de Qatar | Losail International Circuit | Del 6 al 8 de marzo
 
-| Fecha       | Modo                      | Horario        |
+| Fecha | Tets | Trazado |
 | ----------- |---------------------------| -------------: |
 | 6 de marzo  |  Entrenamientos libres 1  |  13:40 a 14:25 |
 | 6 de marzo  |  Entrenamientos libres 2  |  18:05 a 18:50 |
@@ -26,12 +28,12 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 | 7 de marzo  |  Clasificación 1  |  18:00 a 18:15 |
 | 7 de marzo  |  Clasificación 2  |  18:25 a 18:40 |
 | 8 de marzo  |  Warm Up  |  13:40 a 14:00 |
-| 8 de marzo  |  Carrera (22 vueltas)  |  18:00 a 19:00 | 
+| 8 de marzo  |  Carrera (22 vueltas)  |  18:00 a 19:00 |
 
 ### GP de Tailandia | Chang International Circuit | Del 20 al 22 de marzo
 
-| Fecha        | Modo                       | Horario        |
-| -----------  |--------------------------- | -------------: |
+| Fecha | Tets | Trazado |
+| -----------  |---------------------------| -------------: |
 | 20 de marzo  |  Entrenamientos libres 1  |  04:55 a 05:40 |
 | 20 de marzo  |  Entrenamientos libres 2  |  09:10 a 09:55 |
 | 21 de marzo  |  Entrenamientos libres 3  |  04:55 a 05:40 |
@@ -43,7 +45,7 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 
 ### GP de las Américas | Circuit of The Americas | Del 3 al 5 de abril
 
-| Fecha       |  Modo                     |  Horario       |
+| Fecha | Modo | Horario |
 | ----------- |---------------------------| -------------: |
 | 3 de abril  |  Entrenamientos libres 1  |  16:55 a 17:40 |
 | 3 de abril  |  Entrenamientos libres 2  |  21:10 a 21:55 |
@@ -56,7 +58,7 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 
 ### GP de Argentina | Termas de Río Hondo​ | Del 17 al 19 de abril
 
-| Fecha        |  Modo                     |  Horario        |
+| Fecha | Modo | Horario |
 | -----------  |---------------------------| --------------: |
 | 17 de abril  |  Entrenamientos libres 1  |  14:50 a 15:35  |
 | 17 de abril  |  Entrenamientos libres 2  |  19:05 a 19:50  |
@@ -69,7 +71,7 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 
 ### GP de España | Circuito de Jerez-Ángel Nieto | Del 1 al 3 de mayo
 
-|  Fecha      |  Modo                     |  Horario        |
+| Fecha | Modo | Horario |
 | ----------- |---------------------------| --------------: |
 |  1 de mayo  |  Entrenamientos libres 1  |  09:55 a 10:40  |
 |  1 de mayo  |  Entrenamientos libres 2  |  14:10 a 14:55  |
@@ -82,7 +84,7 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 
 ### GP de Francia | Le Mans | Del 15 al 17 de mayo
 
-|  Fecha       |  Modo                     |  Horario        |
+| Fecha | Modo | Horario |
 | -----------  |---------------------------| --------------: |
 |  15 de mayo  |  Entrenamientos libres 1  |  09:55 a 10:40  |  
 |  15 de mayo  |  Entrenamientos libres 2  |  14:10 a 14:55  |  
@@ -95,15 +97,14 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 
 ### GP de Italia | Autodromo del Mugello | Del 29 al 31 de mayo
 
-|  Fecha       |  Modo                     |  Horario        |
+| Fecha | Modo | Horario |
 | ------------ |---------------------------| --------------: |
 |  29 de mayo  |  Entrenamientos libres 1  |  09:55 a 10:40  |
 |  29 de mayo  |  Entrenamientos libres 2  |  14:10 a 14:55  |
 |  30 de mayo  |  Entrenamientos libres 3  |  09:55 a 10:40  |
-|  30 de mayo  |  Entrenamientos libres 4  |  13:30 a 14:00  |
+|  30 de mayo  |  Entrenamientos libres 4	13:30 a 14:00  |
 |  30 de mayo  |  Clasificación 1  |  14:10 a 14:25  |
 |  30 de mayo  |  Clasificación 2  |  14:35 a 14:50  |
 |  31 de mayo  |  Warm Up  |  09:40 a 10:00  |
 |  31 de mayo  |  Carrera (23 vueltas)  |  14:00 a 15:00  |
 
-### GP de Catalunya | Circuit de Barcelona-Catalunya | Del 5 al 7 de junio
