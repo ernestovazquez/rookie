@@ -45,6 +45,9 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 | 22 de marzo  |  Warm Up  |  No se celebra |
 | 22 de marzo  |  Carrera (26 vueltas) |  09:00 a 10:00 |
 
+![tai](/img/tai.png)
+![tai2019](/img/tai2019.png)
+
 ### GP de las Américas | Circuit of The Americas | Del 3 al 5 de abril
 
 | Fecha | Modo | Horario |
@@ -57,6 +60,9 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 | 4 de abril  |  Clasificación 2  |  21:35 a 21:50 |
 | 5 de abril  |  Warm Up  |  16:40 a 17:00 |
 | 5 de abril  |  Carrera (20 vueltas)  |  21:00 a 22:00 |
+
+![america](/img/america.png)
+![america19](/img/america19.png)
 
 ### GP de Argentina | Termas de Río Hondo​ | Del 17 al 19 de abril
 
@@ -71,6 +77,9 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 | 19 de abril  |  Warm Up  |  15:45 a 16:05  |
 | 19 de abril  |  Carrera (25 vueltas)  |  20:00 a 21:00  |
 
+![argentina](/img/argentina.png)
+![argen2019](/img/argen2019.png)
+
 ### GP de España | Circuito de Jerez-Ángel Nieto | Del 1 al 3 de mayo
 
 | Fecha | Modo | Horario |
@@ -83,6 +92,9 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 |  2 de mayo  |  Clasificación 2  |  14:35 a 14:50  |
 |  3 de mayo  |  Warm Up  |  09:40 a 10:00  |
 |  3 de mayo  |  Carrera (25 vueltas)  |  14:00 a 15:00  |
+
+![jerez](/img/jerez.png)
+![jerez19](/img/jerez19.png)
 
 ### GP de Francia | Le Mans | Del 15 al 17 de mayo
 
@@ -97,6 +109,9 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 |  17 de mayo  |  Warm Up  |  09:40 a 10:00  |
 |  17 de mayo  |  Carrera (27 vueltas)  |  14:00 a 15:00  |
 
+![francia](/img/francia.png)
+![francia19](/img/francia19.png)
+
 ### GP de Italia | Autodromo del Mugello | Del 29 al 31 de mayo
 
 | Fecha | Modo | Horario |
@@ -109,6 +124,9 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 |  30 de mayo  |  Clasificación 2  |  14:35 a 14:50  |
 |  31 de mayo  |  Warm Up  |  09:40 a 10:00  |
 |  31 de mayo  |  Carrera (23 vueltas)  |  14:00 a 15:00  |
+
+![italia](/img/italia.png)
+![italia19](/img/italia19.png)
 
 ### GP de Catalunya | Circuit de Barcelona-Catalunya | Del 5 al 7 de junio
 
@@ -123,6 +141,9 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 |  7 de junio  |  Warm Up  |  09:40 a 10:00  |
 |  7 de junio  |  Carrera (24 vueltas)  |  14:00 a 15:00  |
 
+![catal](/img/catal.png)
+![catal19](/img/catal19.png)
+
 ### GP de Alemania | Sachsenring | Del 19 al 21 de junio
 
 | Fecha | Modo | Horario |
@@ -135,6 +156,9 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 |  20 de junio  |  Clasificación 2  |  14:35 a 14:50  |
 |  21 de junio  |  Warm Up  |  09:20 a 09:40  |
 |  21 de junio  |  Carrera (30 vueltas)  |  14:00 a 15:00  |
+
+![alema](/img/alema.png)
+![alema19](/img/alema19.png)
 
 ### GP de Holanda | TT Circuit Assen | Del 26 al 28 de junio
 
@@ -149,6 +173,9 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 |  28 de junio  |  Warm Up  |  09:40 a 10:00  |
 |  28 de junio  |  Carrera (26 vueltas)  |  14:00 a 15:00  |
 
+![assen](/img/assen.png)
+![assen19](/img/assen19.png)
+
 ### GP de Finlandia | KymiRing | Del 10 al 12 de julio
 
 | Fecha | Modo | Horario |
@@ -161,6 +188,8 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 |  11 de julio  |  Clasificación 2  |  14:35 a 14:50  |
 |  12 de julio  |  Warm Up  |  09:40 a 10:00  |
 |  12 de julio  |  Carrera (25 vueltas)  |  14:00 a 15:00  |
+
+![finlan](/img/finlan.png)
 
 ### GP de la República Checa | Automotodrom Brno | Del 7 al 9 de agosto
 
@@ -175,6 +204,9 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 |  9 de agosto  |  Warm Up  |  09:40 a 10:00  
 |  9 de agosto  |  Carrera (21 vueltas)  |  14:00 a 15:00  
 
+![checa](/img/checa.png)
+![checa19](/img/checa19.png)
+
 ### GP de Austria | Red Bull Ring | Del 14 al 16 de agosto
 
 | Fecha | Modo | Horario |
@@ -187,6 +219,9 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 |  15 de agosto  |  Clasificación 2  |  14:35 a 14:50  |
 |  16 de agosto  |  Warm Up  |  09:20 a 09:40  |
 |  16 de agosto  |  Carrera (28 vueltas)  |  14:00 a 15:00  |
+
+![austria](/img/austria.png)
+![austria19](/img/austria19.png)
 
 ### GP de Gran Bretaña | Silverstone Circuit | Del 28 al 30 de agosto
 
@@ -201,6 +236,9 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 |  30 de agosto  |  Warm Up  |  10:30 a 10:50  |
 |  30 de agosto  |  Carrera (20 vueltas)  |  14:00 a 15:00  |
 
+![gb](/img/gb.png)
+![gb19](/img/gb19.png)
+
 ### GP de San Marino | Misano-Marco Simoncelli | Del 11 al 13 de septiembre
 
 | Fecha | Modo | Horario |
@@ -213,6 +251,9 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 |  12 de septiembre  |  Clasificación 2  |  14:35 a 14:50  |
 |  13 de septiembre  |  Warm Up  |  09:20 a 09:40  |
 |  13 de septiembre  |  Carrera (27 vueltas)  |  14:00 a 15:00  |
+
+![misano](/img/misano.png)
+![misano19](/img/misano19.png)
 
 ### GP de Aragón | MotorLand Aragón | Del 2 al 4 de octubre
 
@@ -227,6 +268,9 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 |  4 de octubre  |  Warm Up  |  09:40 a 10:00  |
 |  4 de octubre  |  Carrera (23 vueltas)  |  14:00 a 15:00  |
 
+![aragon](/img/aragon.png)
+![aragon19](/img/aragon19.png)
+
 ### GP de Japón | Twin Ring Motegi | Del 16 al 18 de octubre
 
 | Fecha | Modo | Horario |
@@ -239,6 +283,9 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 |  17 de octubre  |  Clasificación 2  |  07:35 a 07:50  |
 |  18 de octubre  |  Warm Up  |  02:40 a 03:00  |
 |  18 de octubre  |  Carrera (24 vueltas)  |  07:00 a 08:00  |
+
+![japo](/img/japo.png)
+![japo19](/img/japo19.png)
 
 ### GP de Australia | Phillip Island | Del 23 al 25 de octubre
 
@@ -253,6 +300,9 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 |  25 de octubre  |  Warm Up  |  01:40 a 02:00  |
 |  25 de octubre  |  Carrera (27 vueltas)  |  05:00 a 06:00  |
 
+![miller](/img/miller.png)
+![miller19](/img/miller19.png)
+
 ### GP de Malasia | Sepang International Circuit | Del 30 de oct. al 1 de nov.
 
 | Fecha | Modo | Horario |
@@ -266,6 +316,9 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 |  1 de noviembre  |  Warm Up  |  03:40 a 04:00  |
 |  1 de noviembre  |  Carrera (20 vueltas)  |  08:00 a 09:00  |
 
+![malasia](/img/malasia.png)
+![malasia19](/img/malasia19.png)
+
 ### GP de la Comunidad Valenciana | Ricardo Tormo | Del 13 al 15 de noviembre
 
 | Fecha | Modo | Horario |
@@ -278,3 +331,6 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 |  14 de noviembre  |  Clasificación 2  |  14:35 a 14:50  |
 |  15 de noviembre  |  Warm Up  |  09:20 a 09:40  |
 |  15 de noviembre  |  Carrera (27 vueltas)  |  14:00 a 15:00  |
+
+![valen](/img/valen.png)
+![valen19](/img/valen19.png)
