@@ -15,14 +15,6 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 | 07 de febrero de 2020 | Sepang | Sepang International Circuit    |
 | 22 de febrero de 2020 | Qatar | Losail International Circuit    |
 
-Iago Peleteiro
-Tags
-
-    Calendario
-
-Tiempo de lectura7 min
-16/11/2019 13:00
-
 El pasado 28 de agosto se hizo público el calendario de la próxima temporada del mundial de motociclismo, el cual compartirán los pilotos de MotoGP, Moto2 y Moto3, así como también estarán acompañados en algunas de las citas por el certamen de MotoE. Este calendario todavía no es definitivo, puesto que está pendiente de aprobación por parte de la Federación Internacional de Motociclismo (FIM), quien espera que se selle el contrato de renovación de uno de los circuitos que componen actualmente el mundial y que sean avisados para proceder a homologar una nueva pista.
 
 El calendario del mundial 2020 de MotoGP sumará una nueva cita con la incorporación del Gran Premio de Finlandia, que se disputará en el circuito de KymiRing, un trazado que todavía se encuentra en fase de construcción y está pendiente de ser homologado por la FIM para poder albergar competiciones de máximo nivel. El otro de los motivos por el que el máximo organismo del motociclismo mundial no ha aprobado hasta la fecha el calendario es que el Gran Premio de la República Checa todavía no ha formalizado su renovación.
