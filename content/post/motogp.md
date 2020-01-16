@@ -19,7 +19,7 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 
 ### GP de Qatar | Losail International Circuit | Del 6 al 8 de marzo
 
-| Fecha | Tets | Trazado |
+| Fecha | Modo | Horario |
 | ------ |---------| ------: |
 | 6 de marzo  |  Entrenamientos libres 1  |  13:40 a 14:25 |
 | 6 de marzo  |  Entrenamientos libres 2  |  18:05 a 18:50 |
@@ -32,7 +32,7 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 
 ### GP de Tailandia | Chang International Circuit | Del 20 al 22 de marzo
 
-| Fecha | Tets | Trazado |
+| Fecha | Modo | Horario |
 | ------ |---------| ------: |
 | 20 de marzo  |  Entrenamientos libres 1  |  04:55 a 05:40 |
 | 20 de marzo  |  Entrenamientos libres 2  |  09:10 a 09:55 |
