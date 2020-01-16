@@ -1,6 +1,6 @@
 ---
 title: "Calendario MotoGP 2020"
-date: 2020-01-16T16:58:13+01:00
+date: 2020-01-15T16:58:13+01:00
 draft: false
 ---
 
