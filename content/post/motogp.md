@@ -95,7 +95,7 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 
 ### GP de Italia | Autodromo del Mugello | Del 29 al 31 de mayo
 
-| Fecha        |  Modo                     |  Horario        |
+|  Fecha       |  Modo                     |  Horario        |
 | ------------ |---------------------------| --------------: |
 |  29 de mayo  |  Entrenamientos libres 1  |  09:55 a 10:40  |
 |  29 de mayo  |  Entrenamientos libres 2  |  14:10 a 14:55  |
