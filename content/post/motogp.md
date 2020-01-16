@@ -43,7 +43,7 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 
 ### GP de las Américas | Circuit of The Americas | Del 3 al 5 de abril
 
-| Fecha       | Modo                      | Horario        |
+| Fecha       |  Modo                     |  Horario       |
 | ----------- |---------------------------| -------------: |
 | 3 de abril  |  Entrenamientos libres 1  |  16:55 a 17:40 |
 | 3 de abril  |  Entrenamientos libres 2  |  21:10 a 21:55 |
@@ -56,8 +56,8 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 
 ### GP de Argentina | Termas de Río Hondo​ | Del 17 al 19 de abril
 
-| Fecha        | Modo                      | Horario        |
-| -----------  |---------------------------| -------------: |
+| Fecha        |  Modo                     |  Horario        |
+| -----------  |---------------------------| --------------: |
 | 17 de abril  |  Entrenamientos libres 1  |  14:50 a 15:35  |
 | 17 de abril  |  Entrenamientos libres 2  |  19:05 a 19:50  |
 | 18 de abril  |  Entrenamientos libres 3  |  14:50 a 15:35  |
@@ -69,8 +69,8 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 
 ### GP de España | Circuito de Jerez-Ángel Nieto | Del 1 al 3 de mayo
 
-| Fecha       | Modo                      | Horario        |
-| ----------- |---------------------------| -------------: |
+|  Fecha      |  Modo                     |  Horario        |
+| ----------- |---------------------------| --------------: |
 |  1 de mayo  |  Entrenamientos libres 1  |  09:55 a 10:40  |
 |  1 de mayo  |  Entrenamientos libres 2  |  14:10 a 14:55  |
 |  2 de mayo  |  Entrenamientos libres 3  |  09:55 a 10:40  |
@@ -82,8 +82,8 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 
 ### GP de Francia | Le Mans | Del 15 al 17 de mayo
 
-| Fecha       | Modo                      | Horario        |
-| ----------- |---------------------------| -------------: |
+|  Fecha       |  Modo                     |  Horario        |
+| -----------  |---------------------------| --------------: |
 |  15 de mayo  |  Entrenamientos libres 1  |  09:55 a 10:40  |  
 |  15 de mayo  |  Entrenamientos libres 2  |  14:10 a 14:55  |  
 |  16 de mayo  |  Entrenamientos libres 3  |  09:55 a 10:40  |  
@@ -95,8 +95,8 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 
 ### GP de Italia | Autodromo del Mugello | Del 29 al 31 de mayo
 
-| Fecha       | Modo                      | Horario        |
-| ----------- |---------------------------| -------------: |
+| Fecha        |  Modo                     |  Horario        |
+| ------------ |---------------------------| --------------: |
 |  29 de mayo  |  Entrenamientos libres 1  |  09:55 a 10:40  |
 |  29 de mayo  |  Entrenamientos libres 2  |  14:10 a 14:55  |
 |  30 de mayo  |  Entrenamientos libres 3  |  09:55 a 10:40  |
