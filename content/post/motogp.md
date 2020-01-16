@@ -9,7 +9,7 @@ El calendario del mundial 2020 de MotoGP sumará una nueva cita con la incorpora
 Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 días que separan la carrera de Cheste (17 de noviembre), el último gran premio de 2019, y la de Qatar (8 de marzo), la primera de 2020, puesto que Dorna, la empresa organizadora del campeonato, tiene previsto organizar test de pretemporada. En total serán cuatro las fechas elegidas para que los equipos rueden sus monturas, siendo dos de ellas en España.
 
 | Fecha  | Tets    | Trazado |
-| ------ |---------| ------: |
+| ------------------------ |------------| -------------------------: |
 | 19 de noviembre de 2019  | Valencia   | Circuito Ricardo Tormo     |
 | 26 de noviembre de 2019  | Jerez    | Circuito de Jerez-Ángel Nieto    |
 | 07 de febrero de 2020 | Sepang | Sepang International Circuit    |
@@ -28,6 +28,7 @@ Fecha	Test	Trazado
 
 ### GP de Qatar | Losail International Circuit | Del 6 al 8 de marzo
 
+| 
 | ------ |---------| ------: |
 | 6 de marzo  |  Entrenamientos libres 1  |  13:40 a 14:25 |
 | 6 de marzo  |  Entrenamientos libres 2  |  18:05 a 18:50 |
