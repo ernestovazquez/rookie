@@ -100,7 +100,7 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 |  29 de mayo  |  Entrenamientos libres 1  |  09:55 a 10:40  |
 |  29 de mayo  |  Entrenamientos libres 2  |  14:10 a 14:55  |
 |  30 de mayo  |  Entrenamientos libres 3  |  09:55 a 10:40  |
-|  30 de mayo  |  Entrenamientos libres 4	13:30 a 14:00  |
+|  30 de mayo  |  Entrenamientos libres 4  |  13:30 a 14:00  |
 |  30 de mayo  |  Clasificación 1  |  14:10 a 14:25  |
 |  30 de mayo  |  Clasificación 2  |  14:35 a 14:50  |
 |  31 de mayo  |  Warm Up  |  09:40 a 10:00  |
