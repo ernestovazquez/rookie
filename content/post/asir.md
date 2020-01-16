@@ -10,8 +10,8 @@ En esta página quiero ir recopilando información y recursos sobre informática
 
 Métodos de contacto:
 
-[GitHub](https://github.com/ernestovazquez)
+[GitHub](https://github.com/ernestovazquez) -- 
 
-[LinkedIn](https://www.linkedin.com/in/ernestovazquezgarcia)
+[LinkedIn](https://www.linkedin.com/in/ernestovazquezgarcia) --
 
 [Twitter](https://twitter.com/ernestovazgar)
