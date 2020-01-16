@@ -42,3 +42,68 @@ Por suerte, para los aficionados al motociclismo no habrá que esperar los 112 d
 | 22 de marzo  |  Carrera (26 vueltas) |  09:00 a 10:00 |
 
 ### GP de las Américas | Circuit of The Americas | Del 3 al 5 de abril
+
+| Fecha       | Modo                      | Horario        |
+| ----------- |---------------------------| -------------: |
+| 3 de abril  |  Entrenamientos libres 1  |  16:55 a 17:40 |
+| 3 de abril  |  Entrenamientos libres 2  |  21:10 a 21:55 |
+| 4 de abril  |  Entrenamientos libres 3  |  16:55 a 17:40 |
+| 4 de abril  |  Entrenamientos libres 4  |  20:30 a 21:00 |
+| 4 de abril  |  Clasificación 1  |  21:10 a 21:25 |
+| 4 de abril  |  Clasificación 2  |  21:35 a 21:50 |
+| 5 de abril  |  Warm Up  |  16:40 a 17:00 |
+| 5 de abril  |  Carrera (20 vueltas)  |  21:00 a 22:00 |
+
+### GP de Argentina | Termas de Río Hondo​ | Del 17 al 19 de abril
+
+| Fecha        | Modo                      | Horario        |
+| -----------  |---------------------------| -------------: |
+| 17 de abril  |  Entrenamientos libres 1  |  14:50 a 15:35  |
+| 17 de abril  |  Entrenamientos libres 2  |  19:05 a 19:50  |
+| 18 de abril  |  Entrenamientos libres 3  |  14:50 a 15:35  |
+| 18 de abril  |  Entrenamientos libres 4  |  18:25 a 18:55  |
+| 18 de abril  |  Clasificación 1  |  19:05 a 19:20
+| 18 de abril  |  Clasificación 2  |  19:30 a 19:45
+| 19 de abril  |  Warm Up  |  15:45 a 16:05  |
+| 19 de abril  |  Carrera (25 vueltas)  |  20:00 a 21:00  |
+
+### GP de España | Circuito de Jerez-Ángel Nieto | Del 1 al 3 de mayo
+
+| Fecha       | Modo                      | Horario        |
+| ----------- |---------------------------| -------------: |
+|  1 de mayo  |  Entrenamientos libres 1  |  09:55 a 10:40  |
+|  1 de mayo  |  Entrenamientos libres 2  |  14:10 a 14:55  |
+|  2 de mayo  |  Entrenamientos libres 3  |  09:55 a 10:40  |
+|  2 de mayo  |  Entrenamientos libres 4  |  13:30 a 14:00  |
+|  2 de mayo  |  Clasificación 1  |  14:10 a 14:25  |
+|  2 de mayo  |  Clasificación 2  |  14:35 a 14:50  |
+|  3 de mayo  |  Warm Up  |  09:40 a 10:00  |
+|  3 de mayo  |  Carrera (25 vueltas)  |  14:00 a 15:00  |
+
+### GP de Francia | Le Mans | Del 15 al 17 de mayo
+
+| Fecha       | Modo                      | Horario        |
+| ----------- |---------------------------| -------------: |
+|  15 de mayo  |  Entrenamientos libres 1  |  09:55 a 10:40  |  
+|  15 de mayo  |  Entrenamientos libres 2  |  14:10 a 14:55  |  
+|  16 de mayo  |  Entrenamientos libres 3  |  09:55 a 10:40  |  
+|  16 de mayo  |  Entrenamientos libres 4  |  13:30 a 14:00  |  
+|  16 de mayo  |  Clasificación 1  |  14:10 a 14:25  |
+|  16 de mayo  |  Clasificación 2  |  14:35 a 14:50  |
+|  17 de mayo  |  Warm Up  |  09:40 a 10:00  |
+|  17 de mayo  |  Carrera (27 vueltas)  |  14:00 a 15:00  |
+
+### GP de Italia | Autodromo del Mugello | Del 29 al 31 de mayo
+
+| Fecha       | Modo                      | Horario        |
+| ----------- |---------------------------| -------------: |
+|  29 de mayo  |  Entrenamientos libres 1  |  09:55 a 10:40  |
+|  29 de mayo  |  Entrenamientos libres 2  |  14:10 a 14:55  |
+|  30 de mayo  |  Entrenamientos libres 3  |  09:55 a 10:40  |
+|  30 de mayo  |  Entrenamientos libres 4	13:30 a 14:00  |
+|  30 de mayo  |  Clasificación 1  |  14:10 a 14:25  |
+|  30 de mayo  |  Clasificación 2  |  14:35 a 14:50  |
+|  31 de mayo  |  Warm Up  |  09:40 a 10:00  |
+|  31 de mayo  |  Carrera (23 vueltas)  |  14:00 a 15:00  |
+
+### GP de Catalunya | Circuit de Barcelona-Catalunya | Del 5 al 7 de junio
