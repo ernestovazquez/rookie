@@ -28,6 +28,7 @@ Fecha	Test	Trazado
 
 ### GP de Qatar | Losail International Circuit | Del 6 al 8 de marzo
 
+| ------ |---------| ------: |
 | 6 de marzo  |  Entrenamientos libres 1  |  13:40 a 14:25 |
 | 6 de marzo  |  Entrenamientos libres 2  |  18:05 a 18:50 |
 | 7 de marzo  |  Entrenamientos libres 3  |  13:15 a 14:00 |
@@ -39,6 +40,7 @@ Fecha	Test	Trazado
 
 ### GP de Tailandia | Chang International Circuit | Del 20 al 22 de marzo
 
+| ------ |---------| ------: |
 | 20 de marzo  |  Entrenamientos libres 1  |  04:55 a 05:40 |
 | 20 de marzo  |  Entrenamientos libres 2  |  09:10 a 09:55 |
 | 21 de marzo  |  Entrenamientos libres 3  |  04:55 a 05:40 |
