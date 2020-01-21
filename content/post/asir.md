@@ -4,7 +4,7 @@ date: 2020-01-16T12:20:23+01:00
 draft: false
 ---
 
-Blog técnico sobre ASIR (Administración de Sistemas Informáticos en Red) -> [Acceder al blog](https://ernestovazquez.es/blog/)
+Blog técnico sobre ASIR (Administración de Sistemas Informáticos en Red) -> [Acceder al blog](https://ernestovazquez.es/hugo/)
 
 En esta página quiero ir recopilando información y recursos sobre informática.
 
