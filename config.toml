@@ -1,4 +1,5 @@
-baseURL = "https://ernestovazquez.github.io/"
+#baseURL = "https://ernestovazquez.github.io/"
+baseURL = "/blog"
 title = "De Rookie a Leyenda"
 author = "Ernesto Vázquez"
 paginate = 3
